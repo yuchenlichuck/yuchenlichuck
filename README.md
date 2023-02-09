@@ -44,5 +44,5 @@
   <a href="mailto:liyc@mail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
   <a href="http://liyc.tech"> <img src="https://img.shields.io/badge/Major-ComputerVision-pink?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
   <a href="https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en"><img src="https://img.shields.io/badge/More-Google Scholar-green?style=plastic"height="20px"> </a>
-  <a href="center"><img src="https://komarev.com/ghpvc/?username=mczhuge" alt="mczhuge" height="20px"> </a>
+  <a href="https://github.com/yuchenlichuck"><img src="https://komarev.com/ghpvc/?username=yuchenlichuck" alt="mczhuge" height="20px"> </a>
 </p>
