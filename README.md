@@ -25,8 +25,8 @@
 - 💥 [国庆团圆日，海外学子的生活是怎样的？| 「后浪聊天室」Let's chat!](https://www.bilibili.com/video/BV1jL411G7HL/?spm_id_from=333.337.search-card.all.click) on Oct 11, 2022.
 
 ### Publication
-- 🔱 [Sep, 2022] Our PointNeXt accepted by NeurIPS'22
-- 💍 [Jul, 2022] Our 3D CoMPaT accepted by ECCV'22
+- 🔱 [Sep, 2022] Our [PointNeXt](https://github.com/guochengqian/PointNeXt) accepted by NeurIPS'22
+- 💍 [Jul, 2022] Our [3D CoMPaT](https://github.com/Vision-CAIR/3DCoMPaT) accepted by ECCV'22
 
 
 ### 📈 Stats
