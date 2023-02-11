@@ -9,10 +9,10 @@
 
 
 <a href="https://github.com/guochengqian/PointNeXt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guochengqian&repo=PointNeXt&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guochengqian&repo=PointNeXt&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
 <a href="https://github.com/https://github.com/Vision-CAIR/3dcompat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vision-CAIR&repo=3dcompat&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vision-CAIR&repo=3dcompat&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
 <!-- <a href="https://github.com/apache/rocketmq-externals">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=rocketmq-externals&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
@@ -38,7 +38,7 @@
 | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mczhuge&theme=sea-dark&hide_border=true&background=A7BAFCE0" />|
 | ------------- | ------------- |
 -->
-<a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mczhuge&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" alt="Anurag's github stats" /></a>
 
 <p> 
   <!--
