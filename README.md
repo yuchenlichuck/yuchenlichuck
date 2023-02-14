@@ -11,7 +11,7 @@
 <a href="https://github.com/guochengqian/PointNeXt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guochengqian&repo=PointNeXt&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
-<a href="https://github.com/https://github.com/Vision-CAIR/3dcompat">
+<a href="https://github.com/Vision-CAIR/3dcompat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vision-CAIR&repo=3dcompat&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
 </a>
 <!-- <a href="https://github.com/apache/rocketmq-externals">
