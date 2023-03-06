@@ -29,7 +29,6 @@
 - 🔱 [Sep, 2022] Our [PointNeXt](https://github.com/guochengqian/PointNeXt) accepted by NeurIPS'22
 - 💍 [Jul, 2022] Our [3D CoMPaT](https://github.com/Vision-CAIR/3DCoMPaT) accepted by ECCV'22
 
-
 ### 📈 Stats
 
 <!--
