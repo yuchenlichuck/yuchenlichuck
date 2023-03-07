@@ -2,6 +2,13 @@
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Hey,%20Habibi!%20%20&fontAlign=30&fontSize=30&textBg=true&desc=I'm%20Yuchen.&descAlign=60&descAlignY=50)
  -->
+ 
+ <p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&color=c8b6ff&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yuchen+Li;Researcher+%7C+PhD+Student+%7C+Computer+Science;AI+%7C+3D+Computer+Vision+%7C+Generation" alt="Typing SVG" />
+</a>
+<br/>
+
 
 ### 🧩 Top Repositories
 
