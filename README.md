@@ -30,7 +30,7 @@
 </a> -->
 <a href="https://pypi.org/user/drkostas/">
     <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=Visitors&color=0e75b6&style=flat" alt="yuchenlichuck" />
-     <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=DubaiUAE&color=ABD4D4&style=flat" alt="yuchenlichuck" />
+
 </a>
 
 <br/> 
@@ -70,7 +70,7 @@
 | ------------- | ------------- |
 -->
 <a href="https://github.com/yuchenlichuck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuchenlichuck&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" alt="Yuchen Li's github stats" /></a>
-
+     <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=DubaiUAE&color=ABD4D4&style=flat" alt="yuchenlichuck" />
 <p> 
   <!--
   <a href="https://github.com/yuchenlichuck?tab=followers"> <img src="https://img.shields.io/github/stars/yuchenlichuck?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
