@@ -78,9 +78,4 @@
   <a href="http://liyc.tech"> <img src="https://img.shields.io/badge/Major-ComputerVision-pink?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
   <a href="https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en"><img src="https://img.shields.io/badge/More-Google Scholar-green?style=plastic"height="20px"> </a>
   <a href="https://github.com/yuchenlichuck"><img src="https://komarev.com/ghpvc/?username=yuchenlichuck" alt="yuchenli" height="20px"> </a>
-   <a href="https://github.com/yuchenlichuck"><img src="https://komarev.com/ghpvc/?username=yuchenlichuck" alt="yuchenli" height="20px"> </a>
-    <a href="https://github.com/yuchenlichuck"><img src="https://komarev.com/ghpvc/?username=yuchenlichuck" alt="yuchenli" height="20px"> </a>
-    <a href="https://github.com/yuchenlichuck"><img src="https://komarev.com/ghpvc/?username=yuchenlichuck" alt="yuchenli" height="20px"> </a>
-    <a href="https://github.com/yuchenlichuck"><img src="https://komarev.com/ghpvc/?username=yuchenlichuck" alt="yuchenli" height="20px"> </a>
-    <a href="https://github.com/yuchenlichuck"><img src="https://komarev.com/ghpvc/?username=yuchenlichuck" alt="yuchenli" height="20px"> </a>
 </p>
