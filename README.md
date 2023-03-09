@@ -30,8 +30,8 @@
 </a> -->
 <a href="https://pypi.org/user/drkostas/">
     <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=Visitors""&color=0e75b6&style=flat" alt="yuchenlichuck" />
-     <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=""&color=0e75b6&style=flat" alt="yuchenlichuck" />
-      <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label="1"&color=ABD4D4&style=flat" alt="yuchenlichuck" />
+     <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=&color=0e75b6&style=flat" alt="yuchenlichuck" />
+      <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=1&color=ABD4D4&style=flat" alt="yuchenlichuck" />
 </a>
 
 <br/> 
