@@ -62,7 +62,7 @@
 ### Publication
 - 🔱 [Sep, 2022] Our [PointNeXt](https://github.com/guochengqian/PointNeXt) accepted by NeurIPS'22
 - 💍 [Jul, 2022] Our [3D CoMPaT](https://github.com/Vision-CAIR/3DCoMPaT) accepted by ECCV'22
-     <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=DubaiUAE&color=ABD4D4&style=flat" alt="yuchenlichuck" />
+<!--      <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=DubaiUAE&color=ABD4D4&style=flat" alt="yuchenlichuck" /> -->
 ### 📈 Stats
 
 <!--
