@@ -4,7 +4,7 @@
  -->
  
  <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/yuchenlichuck">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&color=c8b6ff&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yuchen+Li;Researcher+%7C+PhD+Student+%7C+Computer+Science;AI+%7C+3D+Computer+Vision+%7C+Generation" alt="Typing SVG" />
 </a>
 <br/>
