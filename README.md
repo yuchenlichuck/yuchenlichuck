@@ -25,7 +25,7 @@
 <a href='https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
-<!-- <a href="https://pypi.org/user/drkostas/">
+<!-- <a href="https://github.com/yuchenlichuck">
     <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a> -->
 <a href="https://pypi.org/user/drkostas/">
