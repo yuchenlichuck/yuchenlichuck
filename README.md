@@ -28,7 +28,7 @@
 <!-- <a href="https://github.com/yuchenlichuck">
     <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a> -->
-<a href="https://pypi.org/user/drkostas/">
+<a href="https://github.com/yuchenlichuck/">
     <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=Visitors&color=0e75b6&style=flat" alt="yuchenlichuck" />
 
 </a>
