@@ -72,9 +72,6 @@
 <a href="https://github.com/yuchenlichuck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuchenlichuck&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" alt="Yuchen Li's github stats" /></a>
 
 <p> 
-  <!--
-  <a href="https://github.com/yuchenlichuck?tab=followers"> <img src="https://img.shields.io/github/stars/yuchenlichuck?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
-  -->
   <a href="mailto:liyc@mail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
   <a href="http://liyc.tech"> <img src="https://img.shields.io/badge/Major-ComputerVision-pink?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
   <a href="https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en"><img src="https://img.shields.io/badge/More-Google Scholar-green?style=plastic"height="20px"> </a>
