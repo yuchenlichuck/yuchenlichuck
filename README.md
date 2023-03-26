@@ -54,7 +54,6 @@
 - 😄 I’m currently working on **3D Computer Vision**. I am looking for the summer research internship!
 - 👉 You can find me at liyc@mail.com, [LinkedIn](https://www.linkedin.com/in/liyc/) and [Google Scholar](https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en)!
 
-
  
 ### Invited Talk 
 - 💥 [国庆团圆日，海外学子的生活是怎样的？| 「后浪聊天室」Let's chat!](https://www.bilibili.com/video/BV1jL411G7HL/?spm_id_from=333.337.search-card.all.click) on Oct 11, 2022.
