@@ -10,8 +10,8 @@
 <br/>
 <br/>
 
-<a href="http://liyc.tech">
-    <img src="https://img.shields.io/badge/Website-liyc.tech-red?style=flat-square">
+<a href="http://liyc.asia">
+    <img src="https://img.shields.io/badge/Website-liyc.asia-red?style=flat-square">
 </a>  
 <!-- <a href="https://gkos.tech/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
@@ -50,7 +50,7 @@
 
  
 ### About Me 👋
-- 📫 [2020/8] I join the **Vision-Cair@KAUST** as a MS student in 2020 Fall, under the supervision of **[Prof. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)**.
+- 📫 [2020/8] I join the **Vision-Cair@KAUST** as an MS student in 2020 Fall, under the supervision of **[Prof. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)**.
 - 😄 I’m currently working on **3D Computer Vision**. I am looking for the summer research internship!
 - 👉 You can find me at liyc@mail.com, [LinkedIn](https://www.linkedin.com/in/liyc/) and [Google Scholar](https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en)!
 
