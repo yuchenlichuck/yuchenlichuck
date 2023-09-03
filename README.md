@@ -77,8 +77,4 @@
 <!--   <a href="https://github.com/yuchenlichuck"><img src="https://komarev.com/ghpvc/?username=yuchenlichuck" alt="yuchenli" height="20px"> </a> -->
 </p>
 
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
-<a href="https://github.com/yuchenlichuck/">
-    <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=HappyNumber&color=0e75cc&style=flat" alt="yuchenlichuck" />
 
-</a>
