@@ -57,6 +57,7 @@
  
 ### Invited Talk 
 - 💥 [国庆团圆日，海外学子的生活是怎样的？| 「后浪聊天室」Let's chat!](https://www.bilibili.com/video/BV1jL411G7HL/?spm_id_from=333.337.search-card.all.click) on Oct 11, 2022.
+- 💰 [迪拜商业英才李禹陈：浅谈中东2030愿景——中国创业者在中东创业的机遇与挑战](https://www.jiachengcap.com/blog/240105_56c8)
 
 ### Publication
 - 🔱 [Sep, 2022] Our [PointNeXt](https://github.com/guochengqian/PointNeXt) accepted by NeurIPS'22
