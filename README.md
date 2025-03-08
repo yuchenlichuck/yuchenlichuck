@@ -10,8 +10,8 @@
 <br/>
 <br/>
 
-<a href="http://liyc.asia">
-    <img src="https://img.shields.io/badge/Website-liyc.asia-red?style=flat-square">
+<a href="http://liyc.space">
+    <img src="https://img.shields.io/badge/Website-liyc.space-red?style=flat-square">
 </a>  
 <!-- <a href="https://gkos.tech/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
