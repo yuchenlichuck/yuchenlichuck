@@ -5,7 +5,7 @@
  
  <p align="center">
 <a href="https://github.com/yuchenlichuck">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&color=c8b6ff&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yuchen+Li;Researcher+%7C+PhD+Student+%7C+Computer+Science;AI+%7C+3D+Computer+Vision+%7C+Generation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&color=c8b6ff&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yuchen+Li+%7C+Dubai+Prince;Researcher+%7C+PhD+Student+%7C+Computer+Science;AI+%7C+3D+Vision+%7C+Generation+%7C+MLLM+Understanding" alt="Typing SVG" />
 </a>
 <br/>
 <br/>
@@ -61,6 +61,7 @@
 - 📱 [07. 去中东上学：全靠酋长资助，不用交学费，还赚钱！](https://www.xiaoyuzhoufm.com/episode/6641cf18f968fce2cbbccdfc)
 
 ### Publication
+- 🌹 [Sep, 2025] Our [3D CoMPaT++](https://github.com/Vision-CAIR/3DCoMPaT) accepted by TPAMI'25
 - 🔱 [Sep, 2022] Our [PointNeXt](https://github.com/guochengqian/PointNeXt) accepted by NeurIPS'22
 - 💍 [Jul, 2022] Our [3D CoMPaT](https://github.com/Vision-CAIR/3DCoMPaT) accepted by ECCV'22
 <!--      <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=DubaiUAE&color=ABD4D4&style=flat" alt="yuchenlichuck" /> -->
