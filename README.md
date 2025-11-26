@@ -51,7 +51,7 @@
  
 ### About Me 👋
 - 📫 [2023/8] I join the **Metaverse Lab at MBZUAi** as an PhD student in 2023 Fall, under the supervision of **[Prof. Hao Li]((https://scholar.google.com/citations?user=NFeigSoAAAAJ&hl=en))**.
-- 📫 [2020/8] I join the **Vision-Cair@KAUST** as an MS student in 2020 Fall, under the supervision of **[Prof. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)**.
+<!-- 📫 [2020/8] I join the **Vision-Cair@KAUST** as an MS student in 2020 Fall, under the supervision of **[Prof. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)**. -->
 - 😄 I’m currently working on **3D Computer Vision**. I am looking for the summer research internship!
 - 👉 You can find me at liyc@mail.com, [LinkedIn](https://www.linkedin.com/in/liyc/) and [Google Scholar](https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en)!
 
