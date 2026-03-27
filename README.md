@@ -62,6 +62,7 @@
 - 📱 [07. 去中东上学：全靠酋长资助，不用交学费，还赚钱！](https://www.xiaoyuzhoufm.com/episode/6641cf18f968fce2cbbccdfc)
 
 ### Publication
+- 🌳 [Mar, 2026] Our [Perceptio](https://huggingface.co/papers/2603.18795) is now on [Huggingface](https://huggingface.co/papers/2603.18795) and [Arxiv](https://arxiv.org/abs/2603.18795)
 - 🌹 [Sep, 2025] Our [3D CoMPaT++](https://github.com/Vision-CAIR/3DCoMPaT) accepted by TPAMI'25
 - 🔱 [Sep, 2022] Our [PointNeXt](https://github.com/guochengqian/PointNeXt) accepted by NeurIPS'22
 - 💍 [Jul, 2022] Our [3D CoMPaT](https://github.com/Vision-CAIR/3DCoMPaT) accepted by ECCV'22
