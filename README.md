@@ -57,6 +57,7 @@
 
  
 ### Invited Talk 
+-  🌸 [72小时全纪实：人类与AI的第一次亲密接触](https://36kr.com/p/3333024150333961) on Jun 12, 2025.
 - 💥 [国庆团圆日，海外学子的生活是怎样的？| 「后浪聊天室」Let's chat!](https://www.bilibili.com/video/BV1jL411G7HL/?spm_id_from=333.337.search-card.all.click) on Oct 11, 2022.
 - 💰 [迪拜商业英才李禹陈：浅谈中东2030愿景——中国创业者在中东创业的机遇与挑战](https://www.jiachengcap.com/blog/240105_56c8)
 - 📱 [07. 去中东上学：全靠酋长资助，不用交学费，还赚钱！](https://www.xiaoyuzhoufm.com/episode/6641cf18f968fce2cbbccdfc)
