@@ -35,6 +35,8 @@
 
 <br/> 
 
+### I am currently seeking research internship opportunities in the 2026 Summer.
+ 
 ### 🧩 Top Repositories
 
 <a href="https://github.com/guochengqian/PointNeXt">
@@ -67,6 +69,15 @@
 - 🌹 [Sep, 2025] Our [3D CoMPaT++](https://github.com/Vision-CAIR/3DCoMPaT) accepted by TPAMI'25
 - 🔱 [Sep, 2022] Our [PointNeXt](https://github.com/guochengqian/PointNeXt) accepted by NeurIPS'22
 - 💍 [Jul, 2022] Our [3D CoMPaT](https://github.com/Vision-CAIR/3DCoMPaT) accepted by ECCV'22
+
+### 🔬 Research Interests
+- 3D Vision and 3D Scene Understanding
+- Video Generation and Video Understanding
+- Multimodal Large Language Models
+- World Models and Embodied AI
+- Generative Models for 3D and Video
+
+
 <!--      <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=DubaiUAE&color=ABD4D4&style=flat" alt="yuchenlichuck" /> -->
 ### 📈 Stats
 
