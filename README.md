@@ -37,24 +37,10 @@
 
 ### I am currently seeking research internship opportunities in the 2026 Summer.
  
-### 🧩 Top Repositories
-
-<a href="https://github.com/guochengqian/PointNeXt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guochengqian&repo=PointNeXt&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
-</a>
-<a href="https://github.com/Vision-CAIR/3dcompat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vision-CAIR&repo=3dcompat&theme=graywhite&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" />
-</a>
-<!-- <a href="https://github.com/apache/rocketmq-externals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=rocketmq-externals&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
-</a>
- -->
-
- 
 ### About Me 👋
 - 📫 [2023/8] I join the **Metaverse Lab at MBZUAi** as an PhD student in 2023 Fall, under the supervision of **[Prof. Hao Li]((https://scholar.google.com/citations?user=NFeigSoAAAAJ&hl=en))**.
 <!-- 📫 [2020/8] I join the **Vision-Cair@KAUST** as an MS student in 2020 Fall, under the supervision of **[Prof. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)**. -->
-- 😄 I’m currently working on **VLM and Video Gen**. I am looking for the summer research internship!
+- 😄 I’m currently working on **VLM and Video Gen**. I am looking for a full-time research scientist position!
 - 👉 You can find me at liyc@mail.com, [LinkedIn](https://www.linkedin.com/in/liyc/) and [Google Scholar](https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en)!
 
  
@@ -76,16 +62,6 @@
 - Multimodal Large Language Models
 - World Models and Embodied AI
 - Generative Models for 3D and Video
-
-
-<!--      <img src="https://komarev.com/ghpvc/?username=yuchenlichuck&label=DubaiUAE&color=ABD4D4&style=flat" alt="yuchenlichuck" /> -->
-### 📈 Stats
-
-<!--
-| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuchenlichuck&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mczhuge&theme=sea-dark&hide_border=true&background=A7BAFCE0" />|
-| ------------- | ------------- |
--->
-<a href="https://github.com/yuchenlichuck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuchenlichuck&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,ffd6ff,e7c6ff,c8b6ff,adb7ff,bbd0ff&hide_border=true" alt="Yuchen Li's github stats" /></a>
 
 <p> 
   <a href="mailto:liyc@mail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
