@@ -35,7 +35,7 @@
 
 <br/> 
 
-### I am currently seeking research internship opportunities in the 2026 Summer.
+### I am currently seeking research scientist opportunities in the 2027 Summer.
  
 ### About Me 👋
 - 📫 [2023/8] I join the **Metaverse Lab at MBZUAi** as an PhD student in 2023 Fall, under the supervision of **[Prof. Hao Li]((https://scholar.google.com/citations?user=NFeigSoAAAAJ&hl=en))**.
